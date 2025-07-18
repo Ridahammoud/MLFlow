@@ -1,0 +1,7 @@
+mlflow
+lightgbm
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
